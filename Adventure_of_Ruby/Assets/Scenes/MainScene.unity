@@ -2720,7 +2720,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4564681661682770897, guid: 89e1063a651b2b44fb9041d018cf8d2b, type: 3}
       propertyPath: m_Name
-      value: Bot
+      value: Robot
       objectReference: {fileID: 0}
     - target: {fileID: 8910371292941375574, guid: 89e1063a651b2b44fb9041d018cf8d2b, type: 3}
       propertyPath: m_LocalPosition.x
