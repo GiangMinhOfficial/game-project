@@ -12687,6 +12687,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Robot
       objectReference: {fileID: 0}
+    - target: {fileID: 8628948142918434403, guid: 89e1063a651b2b44fb9041d018cf8d2b, type: 3}
+      propertyPath: smokeEffect
+      value: 
+      objectReference: {fileID: 7218511820024412945, guid: faf506bdc28de7b44966eab354dfbcd7, type: 3}
     - target: {fileID: 8910371292941375574, guid: 89e1063a651b2b44fb9041d018cf8d2b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.42
