@@ -16,6 +16,9 @@ public class RubyController : MonoBehaviour
     Rigidbody2D rigidbody2D;
     Animator animator;
     Vector2 lookDirection = new Vector2(1, 0);
+    private AudioSource audioSource;
+    public AudioClip throwAudioClip;
+    public AudioClip enemyHitAudioClip;
 
     float horizontal;
     float vertical;
@@ -25,6 +28,7 @@ public class RubyController : MonoBehaviour
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
 
         currentHealth = maxHealth;
     }
@@ -92,6 +96,8 @@ public class RubyController : MonoBehaviour
         {
             animator.SetTrigger("Hit");
 
+            PlaySound(enemyHitAudioClip);
+
             if (isInvincible)
                 return;
 
@@ -112,5 +118,11 @@ public class RubyController : MonoBehaviour
         projectile.Launch(lookDirection, 300);
 
         animator.SetTrigger("Launch");
+        PlaySound(throwAudioClip);
+    }
+
+    public void PlaySound(AudioClip clip)
+    {
+        audioSource.PlayOneShot(clip);
     }
 }
