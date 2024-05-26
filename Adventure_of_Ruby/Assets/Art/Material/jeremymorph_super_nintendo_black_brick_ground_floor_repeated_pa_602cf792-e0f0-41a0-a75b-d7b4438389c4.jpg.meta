@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 2358f89ad45eddd4490dd76ffeff7c04
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22d01be022588b4597c2ce69f7fa25b
+      internalID: 222891687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af4434397b29e34eb545fb649242365
+      internalID: -1124130415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36fcb7517438344982122274ff127b
+      internalID: -971981860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb146908a9a889b4997137a91cf2161c
+      internalID: -2078704103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce228324dbb26d419f555c54ce3d266
+      internalID: -760341202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e68ab8395db0f4d8470e055e819844
+      internalID: -1705999495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeac7264ed5dfd4c89932b0b1661e91
+      internalID: -34876524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1268ce0def74ca14581397bf66341751
+      internalID: 2088233836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd8ada7d583df4591054b35288c829
+      internalID: 1527560838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878fede7a3b6aa347b451389893f66ee
+      internalID: -399831375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ac99f3cafce44ebeef6d15251ba4f
+      internalID: -280133576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e06300be90c4d4b882caaddb54f063
+      internalID: 1155851135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681628bbdb213034f843f17e3385753e
+      internalID: 621806283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b7396c77b67cf4fb5e5fa75989dc12
+      internalID: -739639362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80c6cdf8b86122479a381bb9ad2ce19
+      internalID: 1355592325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb45a40d9e16a64b9ea51e613085c7e
+      internalID: 1933712936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bde8f081f550f844bc4fddb4d0f1ced
+      internalID: -554945445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c4c152916f6b9488157f7c85997ac0
+      internalID: -45293023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a04cf1b0d5b14bb1c64181fcce02f
+      internalID: -1731127757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa410c902c4e6498bf4f519e4fc75f
+      internalID: -647083037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f547bed9a6684047ba3765a27a934dd
+      internalID: -1545422924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475f66af9b994ff488b2b5b1e9d8a345
+      internalID: 1045471715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df1b34a896cd284086bfae309218ab6
+      internalID: -451223391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7fcdb36c7b57e4e99f64f1e406141d
+      internalID: 1602388571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aac56a73077944798db5271a537fec
+      internalID: -1942069522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ed7911073805e48bda68178aa4300f
+      internalID: -2133712386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbdac2c9e2d2fe46814e0f7c2c69aa2
+      internalID: -1900539842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69386ea9211b82f479ef26102e8a4e51
+      internalID: -2126820243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46174b29f155bf49be528942ec16253
+      internalID: -1736593940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acd845a78f105c418af1b83d11f5465
+      internalID: -376571790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a496e9534650f547ba097499f7b72e2
+      internalID: -2072191152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cb6521f456c274a8df7018e1c173f9
+      internalID: -503847387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac56a9e3b4677f94dbdc24cf08ee06bd
+      internalID: 31870248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977e3ca62e81130479309586f6456173
+      internalID: -1276092301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db728d0078c734a9b4c0047237ac47
+      internalID: 1550342730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929b733c6f63dbe4e9c00a8dc763ca6a
+      internalID: -1342906439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_0: 222891687
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_1: -1124130415
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_10: -280133576
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_11: 1155851135
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_12: 621806283
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_13: -739639362
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_14: 1355592325
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_15: 1933712936
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_16: -554945445
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_17: -45293023
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_18: -1731127757
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_19: -647083037
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_2: -971981860
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_20: -1545422924
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_21: 1045471715
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_22: -451223391
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_23: 1602388571
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_24: -1942069522
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_25: -2133712386
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_26: -1900539842
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_27: -2126820243
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_28: -1736593940
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_29: -376571790
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_3: -2078704103
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_30: -2072191152
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_31: -503847387
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_32: 31870248
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_33: -1276092301
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_34: 1550342730
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_35: -1342906439
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_4: -760341202
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_5: -1705999495
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_6: -34876524
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_7: 2088233836
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_8: 1527560838
+      jeremymorph_super_nintendo_black_brick_ground_floor_repeated_pa_602cf792-e0f0-41a0-a75b-d7b4438389c4_9: -399831375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
